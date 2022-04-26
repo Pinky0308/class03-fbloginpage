@@ -1,0 +1,31 @@
+span{
+    color:white;
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color:#e9ebf3;
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background-color: #4267b2;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p_lines{
+    color:#0e385f;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#terms a{
+    color:#0e385f;
+}
+#l_button{
+        background-color: #609c4d;
+        color:white;
+        width: 200px;
+        font-size: 20px;
+
+}
